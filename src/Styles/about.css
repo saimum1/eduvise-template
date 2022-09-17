@@ -1,0 +1,117 @@
+.sec-container{
+    width: 100%;
+    height: 488px;
+margin-top: 56.6px;
+background-color: #3c72f2;
+display: flex;
+flex-direction: column;
+text-align: center;
+align-items: center;
+justify-content: center;
+gap: 24px;
+
+
+}
+
+.head{
+
+display: flex;
+justify-content: center;
+
+text-align: center;
+
+
+}
+.head>p{
+  
+ 
+   
+    opacity: 0.9;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 3.2px;
+    text-align: center;
+    color: #fff;
+    
+
+}
+
+.det{
+    display: flex;
+justify-content: center;
+
+text-align: center;
+
+}
+
+.det p{
+    width: 1058px;
+    height: 80px;
+  opacity: 0.6;
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.82;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+ 
+}
+
+
+.count{
+    display: flex;
+    flex-direction: row;
+    gap: 183px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 56px;
+}
+
+.count>div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.per{
+    width: 97px;
+    height: 32px;
+    opacity: 0.9;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 3.2px;
+    text-align: left;
+    color: #fff;
+}
+
+
+
+.perdet{
+
+  height: 40px;
+
+    opacity: 0.6;
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: normal;
+   
+    color: #fff;
+}

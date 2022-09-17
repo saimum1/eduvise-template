@@ -1,0 +1,70 @@
+
+
+.ad{
+    
+    width: 100%;
+   display: flex;
+   flex-direction: column;
+   margin-top: 45px;
+   text-align: center;
+   
+}
+
+
+.ad>span{
+    font-size: 22px;
+    font-family: 'Inter',sans-serif;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.45rem;
+    letter-spacing: 0.88px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+    
+
+}
+
+
+
+hr{
+    opacity: 60%;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-top: 22.5px;
+}
+
+.ad-logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap:80px;
+    margin-top: 40px;
+}
+
+.ad-logos>img{
+    width:180px;
+    height: 69.2px;
+}
+
+.dot_container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 64px;
+    gap: 16px;
+}
+
+.dot{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #c4c4c4;
+}
